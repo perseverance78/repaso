@@ -1,1 +1,3 @@
-HOLA A TODOS
+<?php
+echo "conflicto";
+?>
